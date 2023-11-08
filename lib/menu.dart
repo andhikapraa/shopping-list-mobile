@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:shopping_list/widgets/left_drawer.dart';
 
 class ShopItem {
   final String name;
@@ -23,7 +24,10 @@ class MyHomePage extends StatelessWidget {
           title: const Text(
             'Shopping List',
           ),
+          backgroundColor: Colors.indigo,
+          foregroundColor: Colors.white,
         ),
+        drawer: const LeftDrawer(),
         body: SingleChildScrollView(
           // Widget wrapper yang dapat discroll
           child: Padding(
