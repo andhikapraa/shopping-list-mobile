@@ -1,4 +1,7 @@
 # shopping_list
+[![Build status](https://build.appcenter.ms/v0.1/apps/d3a4d421-67d7-48b9-9bfb-e55a16287056/branches/main/badge)](https://appcenter.ms)
+
+[Install here!](https://install.appcenter.ms/orgs/yugioh/apps/shopping-list/distribution_groups/alpha/releases/1)
 
 A new Flutter project.
 
